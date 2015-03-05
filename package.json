@@ -1,0 +1,24 @@
+{
+  "name": "brindille-stylus-appearance",
+  "version": "0.0.1",
+  "description": "Appearance mixin",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brindille/stylus-appearance.git"
+  },
+  "keywords": [
+    "Appearance",
+    "stylus",
+    "mixin"
+  ],
+  "author": "Valentin Daguenet <valentin.daguenet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brindille/stylus-appearance/issues"
+  },
+  "homepage": "https://github.com/brindille/stylus-appearance"
+}
